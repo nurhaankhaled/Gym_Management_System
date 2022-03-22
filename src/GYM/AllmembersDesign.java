@@ -8,7 +8,7 @@ package GYM;
 
 /**
  *
- * @author Nurhan
+ * @author Nurhan 
  */
 public class AllmembersDesign extends javax.swing.JFrame {
 String SelectedValue="Choose";
